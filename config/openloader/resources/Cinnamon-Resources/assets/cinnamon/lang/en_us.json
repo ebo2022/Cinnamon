@@ -1,0 +1,9 @@
+{
+  "item.minecraft.netherite_scrap": "Ancient Scrap",
+  "item.minecraft.chainmail_helmet": "Chainmail Hood",
+  "enchantment.supplementaries.stasis.desc": "Allows slingshot projectiles to ignore gravity, and generates Bubble Blocks if applied to a Bubble Blower.",
+  "enchantment.minecraft.loyalty.desc": "Allows tridents and slingshot projectiles to automatically return after being thrown.",
+  "effect.farmersdelight.comfort.description": "Makes the player immune to Hunger, Slowness and Weakness.",
+  "effect.farmersdelight.nourishment.description": "Prevents the player from losing hunger and saturation through exhaustive actions (e.g running, jumping, attacking).",
+  "block.quark.rainbow_rune": "§cR§6a§ei§an§9b§5o§cw §6R§eu§an§9e"
+}

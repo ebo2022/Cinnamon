@@ -1,0 +1,16 @@
+{
+    "name": "Welcome - Start Here!",
+    "icon": "minecraft:writable_book",
+    "sortnum": 0,
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Welcome to the $(thing)Cinnamon$() modpack! This guide explains all of the things you as the player will need to get started. We have condensed most of the info in the book to keep things short and simple, and as such we recommend paying attention now so you can get playing sooner!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(thing)Cinnamon$() is a vanilla+ modpack at its core. What seperates it from the others is that it not only adds things on top of Vanilla Minecraft, but makes sure the content integrates with or builds upon existing mechanics without overshadowing them. The subsequent chapters in this section cover the most important of these features that influence your experience the most."
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Challenge Quests",
+    "description": "$(thing)Challenge Quests$() introduce new content through objectives tied to advancements. If any of these catch your eye, then go for it! Before you start, please note this is not a true quest system - you won't be receiving any rewards for completing one of these. Challenge Quests are meant to introduce players to new content and encourage them to explore their world more.",
+    "icon": "minecraft:diamond",
+    "sortnum": 2
+}

@@ -1,0 +1,61 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = menu_graphics/load_background.png
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = top-right
+  visible = false
+  x = -156
+  action = editlogo
+  y = 83
+}
+
+customization {
+  action = editprogressbar
+  y = -25
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  x = 0
+  textcolor = #ffffff
+  action = addtext
+  actionid = 9c2ce5f6-efea-4e6b-9c21-8e124b7dc0af1643156399234
+  y = -40
+  scale = 1.0
+  alignment = left
+  value = Loading Mods | %loadingprogress%% Complete
+}
+
+customization {
+  path = menu_graphics/mod_config.png
+  orientation = bottom-left
+  x = 2
+  width = 15
+  action = addtexture
+  actionid = 7cd795b0-a255-4c1a-b1df-47dbc5b660d11643156463484
+  y = -2
+  height = 16
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 19
+  textcolor = #ffffff
+  action = addtext
+  actionid = 7c8b418b-0381-442a-86d0-3011f4b849361643157872714
+  y = -2
+  scale = 1.0
+  alignment = left
+  value = %version:forge%
+}
+

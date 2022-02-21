@@ -1,0 +1,14 @@
+{
+    "name": "Advancements",
+    "icon": "supplementaries:goblet",
+    "sortnum": 2,
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:goblet",
+            "title": "Advancements",
+            "text": "A large part of exploring new content is well-hidden in the advancements the new mods add. While $(thing)Cinnamon$() does provide several means of browsing through content, there is no set progression path. If you'd like an idea of how to start with some no content, look into the Advancements menu just like you would in vanilla."
+        }
+    ]
+}

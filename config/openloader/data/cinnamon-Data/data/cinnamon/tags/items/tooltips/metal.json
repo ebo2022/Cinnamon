@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:piston",
+        "minecraft:sticky_piston",
+        "supplementaries:turn_table",
+        "supplementaries:cage",
+        "supplementaries:spring_launcher"
+    ]
+}

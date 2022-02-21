@@ -1,0 +1,27 @@
+{
+    "name": "Exploring Content",
+    "icon": "minecraft:compass",
+    "sortnum": 1,
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:compass",
+            "title": "Exploring Content",
+            "text": "This is a longer read since many new methods of browsing content have been added to make thing easier. Over the next several pages, some basic pointers of what to expect are listed."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "JEI",
+            "text": "If you're a veteran to modding, feel free to skip over this part. As for newcomers, it is $(l)absolutely essential$() that you read this because the recipe book has been nuked.$(br2)Now for the most important mod on the block... well, you probably already know by now. $(thing)JEI$() ($(thing)Just Enough Items$()) is the mod that adds the item pannel on the right side of the screen."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It's the most downloaded mod on $(thing)CurseForge$(), and for good reason! Almost every modpack out there employs $(thing)JEI$() as an easy way to find recipes, info, and more. In this specific instance, the functionality is limited to just recipes and info panels (more on this later!). On the next page, most of the important controls are listed so you know how to look around!"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)Use the $(item)Mouse Wheel$() while hovering over the panel to easily change pages$(li)$(item)R$() or using $(item)Left-Click$() on an item shows the recipe$(li)$(item)U$() or using $(item)Right-Click$() on an item shows how it can be applied in other recipes"
+        }
+    ]
+}

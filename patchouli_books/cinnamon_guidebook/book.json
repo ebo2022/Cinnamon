@@ -1,0 +1,9 @@
+{
+    "name": "Cinnamon Guide",
+    "book_texture": "patchouli:textures/gui/book_purple.png",
+    "model": "patchouli:book_purple",
+    "landing_text": "Welcome $(playername) to the $(thing)Cinnamon$() modpack!$(br2)This guidebook has everything you'll need to know to get off to a great start. I hope you enjoy this experience as much as I had fun making it.",
+    "version": "0",
+    "subtitle": "Version 1.0.0",
+    "show_progress": false
+}

@@ -1,0 +1,47 @@
+type = menu
+
+customization-meta {
+  identifier = com.teamabnormals.blueprint.client.screen.SlabfishHatScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345166%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -90
+}
+
+customization {
+  identifier = %id=505190%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -66
+}
+
+customization {
+  identifier = %id=345190%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -66
+}
+
+customization {
+  identifier = %id=505166%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -90
+}
+

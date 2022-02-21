@@ -1,0 +1,186 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400322%
+  width = 198
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 101
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=502382%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = sethoverlabel
+  label = 
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = -18
+}
+
+customization {
+  identifier = %id=400298%
+  width = 198
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = 101
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -99
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -121
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -121
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=400346%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = top-left
+  x = 8
+  action = movebutton
+  y = 8
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = Discord
+  loopbackgroundanimations = true
+  hoverlabel = &9Onward!
+  x = 1
+  width = 98
+  actionid = d20a19e4-66c4-4a5d-970d-b7676da6f8ab1642970642458
+  action = addbutton
+  y = 26
+  value = 
+  height = 20
+}
+
+customization {
+  path = menu_graphics/quit.png
+  orientation = mid-centered
+  x = 103
+  width = 16
+  action = addtexture
+  actionid = adc5760c-f2d7-46fa-a215-de96fd28910d1642971391794
+  y = 28
+  height = 16
+}
+
+customization {
+  path = menu_graphics/mod_config.png
+  orientation = mid-centered
+  x = -119
+  width = 16
+  action = addtexture
+  actionid = 9188a686-bad5-4b3d-905a-ff38b8af8e991642978929153
+  y = 28
+  height = 16
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  action = addtext
+  actionid = 77cf066c-f558-495d-9be6-c4db309216a81643155885595
+  y = -12
+  scale = 1.0
+  alignment = left
+  value = Created with care by ebo2021
+}
+

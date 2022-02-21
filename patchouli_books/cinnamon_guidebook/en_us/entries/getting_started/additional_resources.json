@@ -1,0 +1,14 @@
+{
+    "name": "Additonal Resources",
+    "icon": "supplementaries:globe",
+    "sortnum": 3,
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:globe",
+            "title": "Additional Resources",
+            "text": "You can put only so much in a $(thing)JEI$() info panel without being overly complex, so I compiled all of the resources I used personally. Literally, absolutely everything, even some more obscure sources (nothing shady, just wording). If you want to look even deeper into a mechanic or feature, go right ahead; this is the place for you!"
+        }
+    ]
+}

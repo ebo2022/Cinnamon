@@ -1,0 +1,8 @@
+{
+    "name": "Cookbook",
+    "book_texture": "patchouli:textures/gui/book_purple.png",
+    "model": "patchouli:book_purple",
+    "landing_text": "(Placeholder Text)",
+    "version": "1",
+    "show_progress": false
+}

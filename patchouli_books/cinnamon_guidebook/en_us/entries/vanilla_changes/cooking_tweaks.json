@@ -1,0 +1,39 @@
+{
+    "name": "Cooking Tweaks",
+    "icon": "farmersdelight:cooking_pot",
+    "sortnum": 2,
+    "category": "patchouli:vanilla_changes",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The cooking system has been overhauled to promote players who find new foods and execute multiple steps to achieve the final product. As a starting point, several new inroads to modded food content have been introduced. Most notably, soups and stews can only be made in the $(item)Cooking Pot$(): a new, specialized kitchen implement used for more complex dishes."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "farmersdelight:bread_from_smelting",
+            "text": "In addition, some foods such as $(item)Bread$() have had their recipes swapped for more complicated ones (see above). This is by all means intentional - we want you to feel rewarded after making a hearty meal. There are several other new tools to use as well, but overviews of those are found in the $(item)Cookbook$()."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:cookbook_recipe",
+            "recipe2": "farmersdelight:cooking_pot"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "For the best start with this new system, I recommend you get the following:$(br) $(li)$(item)Cookbook$() - This contains in-depth ducumentation on foods and crops; $(li)$(item)Cooking Pot$() - As mentioned, essential if you're making less superficial dishes; $(li)$(thing)Heat Source$() - $(item)Stoves$() and fire-related stuff count$(br2)All of these will help you start cooking up new and exotic dishes."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Since most of the new farming and cooking content revolves around $(thing)Farmer's Delight$() and the $(thing)Abnormals Mods$(), it's a good idea to check out their respective wikis and Discord servers. All of these links can be found in the $(l:patchouli:getting_started/additional_resources)Resources Section$().$(br2) As a final note of advice, the mechanics mentioned here are just the tip of the iceberg. Look into getting a $(item)Cookbook$() if you want to learn more!"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "cinnamon:textures/gui/entries/cooking.png"
+            ],
+            "title": "Outdoor Kitchen",
+            "text": "Shown in the photo: $(item)Knife$(), $(item)Cutting Board$(), $(item)Stove$(), and $(item)Cooking Pot$()",
+            "border": true
+        }
+    ]
+}

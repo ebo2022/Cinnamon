@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:flowers",
+        "#minecraft:saplings",
+        "#quark:seed_pouch_holdable",
+        "#forge:seeds",
+        "quark:seed_pouch",
+        "supplementaries:flower_box",
+        "supplementaries:planter",
+        "supplementaries:planter_rich",
+        "farmersdelight:rich_soil",
+        "farmersdelight:red_mushroom_colony",
+        "farmersdelight:brown_mushroom_colony",
+        "minecraft:flower_pot"
+    ]
+}

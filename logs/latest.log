@@ -1,0 +1,461 @@
+[08:32:24] [main/INFO]: ModLauncher running: args [--username, ebo2022, --version, forge-39.0.79, --gameDir, C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ, --assetsDir, C:\Users\Ethan\curseforge\minecraft\Install\assets, --assetIndex, 1.18, --uuid, a58c125e824542849a88df123de49565, --accessToken, ????????, --clientId, NTc0MGZjMGItYzNhOS00YWQyLTk1ZTktMjFhMzA0MjFhYWZi, --xuid, 2535443520407464, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 39.0.79, --fml.mcVersion, 1.18.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211210.034407]
+[08:32:24] [main/INFO]: ModLauncher 9.1.0+9.1.0+main.6690ee51 starting: java version 17.0.1 by Microsoft
+[08:32:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Ethan/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2319!/ Service=ModLauncher Env=CLIENT
+[08:32:24] [main/INFO]: Found mod file 3dSkinLayers-forge-mc1.18-1.4.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file advancementframes-1.18-1.0.5.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file AttributeFix-Forge-1.18.1-13.0.5.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file beenfo-1.18.1-forge39.0.9-1.2.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file BetterAdvancements-1.18.1-0.1.2.122.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file betterbiomeblend-1.18.1-1.3.2-forge.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file BetterF3-1.2.2-Forge-1.18.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file BetterStrongholds-Forge-1.18.1-1.0.2.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file BetterThirdPerson-Forge-1.18-1.6.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file blueprint-1.18.1-5.1.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file cloth-config-6.2.57-forge.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Clumps-forge-1.18.1-8.0.0+5.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file configured-1.5.3-1.18.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Controlling-forge-1.18.1-9.0+15.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file CraftTweaker-forge-1.18.1-9.0.62.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Ding-1.18-1.3.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file dynview-1.18.1-2.4.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file effective_for_forge-1.001.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.1-9.0.11.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file entityculling-forge-mc1.18-1.5.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file EquipmentCompare-1.18.1-1.2.12.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file fancymenu_forge_2.6.3_MC_1.18-1.18.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file FarmersDelight-1.18.1-1.0.3.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file farsight-1.18-1.6.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file FastFurnace-1.18.1-6.0.2.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file FastWorkbench-1.18.1-6.0.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file ferritecore-4.1.2-forge.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file fish_in_planks-1.18.1-0.5.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file FpsReducer-forge-1.25-mc1.18.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Highlighter-1.18.1-1.1.2.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Iceberg-1.18.1-1.0.40.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file itemzoom-1.18.1-2.5.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Jade-1.18-4.1.2.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file jeed-1.18.1-1.7.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file jei-1.18.1-9.4.1.102.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file JEITweaker-1.18.1-3.0.0.4.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file justzoom_forge_1.0.1_MC_1.18-1.18.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Kiwi-1.18-forge-5.2.5.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file konkrete_forge_1.3.3_MC_1.18-1.18.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file krypton-1.0.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file lazydfu-1.0-1.18+.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file LegendaryTooltips-1.18.1-1.2.4.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file no_null_processors_forge-2.0.2+1.18.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Patchouli-1.18.1-65.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Placebo-1.18.1-6.1.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file Quark-3.1-339.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file QuarkOddities-1.18.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file rubidium-0.5.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file selene-1.18-1.12.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file shutupexperimentalsettings-1.0.4-1.18+.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file smarterfarmers-1.18-1.2.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file SnowRealMagic-1.18-forge-3.2.2.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file snowundertrees-1.18.1-1.2.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file spark-1.8.6-forge.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file spiffyhud_forge_1.5.0_MC_1.18-1.18.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file starlight-1.0.0+forge.4fd2e63.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file supplementaries-1.18.1-1.1.11.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file swingthroughgrass-1.18.1-1.8.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file tellme-forge-1.18.1-0.10.0.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file ToastControl-1.18.1-6.0.1.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file YungsApi-1.18.1-Forge-24.jar of type MOD with locator {mods folder locator at C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\mods}
+[08:32:24] [main/INFO]: Found mod file fmlcore-1.18.1-39.0.79.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2c444798
+[08:32:24] [main/INFO]: Found mod file javafmllanguage-1.18.1-39.0.79.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2c444798
+[08:32:24] [main/INFO]: Found mod file mclanguage-1.18.1-39.0.79.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2c444798
+[08:32:24] [main/INFO]: Found mod file client-1.18.1-20211210.034407-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2c444798
+[08:32:24] [main/INFO]: Found mod file forge-1.18.1-39.0.79-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2c444798
+[08:32:25] [main/INFO]: Compatibility level set to JAVA_17
+[08:32:25] [main/ERROR]: Mixin config rubidium.mixins.json does not specify "minVersion" property
+[08:32:26] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[08:32:26] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-39.0.79, --gameDir, C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ, --assetsDir, C:\Users\Ethan\curseforge\minecraft\Install\assets, --uuid, a58c125e824542849a88df123de49565, --username, ebo2022, --assetIndex, 1.18, --accessToken, ????????, --clientId, NTc0MGZjMGItYzNhOS00YWQyLTk1ZTktMjFhMzA0MjFhYWZi, --xuid, 2535443520407464, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[08:32:26] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[08:32:26] [main/INFO]: Loaded configuration file for Rubidium: 29 options available, 0 override(s) found
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinWidget | TO TARGET: net.minecraft.client.gui.components.AbstractWidget
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinImageButton | TO TARGET: net.minecraft.client.gui.components.ImageButton
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinAbstractSelectionList | TO TARGET: net.minecraft.client.gui.components.AbstractSelectionList
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinScreen | TO TARGET: net.minecraft.client.gui.screens.Screen
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinMinecraft | TO TARGET: net.minecraft.client.Minecraft
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinLoadingOverlay | TO TARGET: net.minecraft.client.gui.screens.LoadingOverlay
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiComponent | TO TARGET: net.minecraft.client.gui.GuiComponent
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinOnlineServerEntry | TO TARGET: net.minecraft.client.gui.screens.multiplayer.ServerSelectionList$OnlineServerEntry
+[08:32:26] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinWorldListEntry | TO TARGET: net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry
+[08:32:27] [main/WARN]: @Inject(@At("HEAD")) Shift.BY=1 on blueprint.mixins.json:EntityMixin::handler$zzp000$baseTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08:32:29] [pool-3-thread-1/INFO]: Lazy DFU
+[08:32:30] [Render thread/WARN]: Assets URL 'union:/C:/Users/Ethan/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.1-20211210.034407/client-1.18.1-20211210.034407-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
+[08:32:30] [Render thread/WARN]: Assets URL 'union:/C:/Users/Ethan/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.1-20211210.034407/client-1.18.1-20211210.034407-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
+[08:32:30] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:32:30] [Render thread/INFO]: Setting user: ebo2022
+[08:32:31] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[08:32:31] [modloading-worker-0/INFO]: Loaded config file.
+[08:32:31] [modloading-worker-0/INFO]: Saved config file.
+[08:32:31] [modloading-worker-0/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on snowrealmagic.mixins.json:ModelBakeryMixin::handler$zlg000$srm_loadBlockModel exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08:32:31] [modloading-worker-0/INFO]: [KONKRETE] Successfully initialized!
+[08:32:31] [modloading-worker-0/INFO]: [KONKRETE] Server-side libs ready to use!
+[08:32:31] [modloading-worker-0/INFO]: Forge mod loading, version 39.0.79, for MC 1.18.1 with MCP 20211210.034407
+[08:32:31] [modloading-worker-0/INFO]: MinecraftForge v39.0.79 Initialized
+[08:32:31] [modloading-worker-0/INFO]: Reloading the configs from file 'C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\config\tellme.toml'
+[08:32:31] [modloading-worker-0/INFO]: Otifine does not seem to be loaded, so no need to overwrite anything.
+[08:32:31] [modloading-worker-0/INFO]: [SPIFFY HUD] FancyMenu found!
+[08:32:31] [modloading-worker-0/INFO]: [BetterF3] Starting...
+[08:32:31] [modloading-worker-0/INFO]: Processing 3 KiwiModule annotations
+[08:32:31] [modloading-worker-0/INFO]: Patching ServerResources#<init>
+[08:32:31] [modloading-worker-0/INFO]: Narrator library for x64 successfully loaded
+[08:32:32] [modloading-worker-0/INFO]: [FANCYMENU] Forced window to fullscreen!
+[08:32:32] [Render thread/INFO]: Module [kiwi:contributors] initialized
+[08:32:32] [Render thread/INFO]: Module [snowrealmagic:core] initialized
+[08:32:32] [Render thread/INFO]:     block: 8
+[08:32:32] [Render thread/INFO]:     item: 1
+[08:32:32] [Render thread/INFO]:     block_entity_type: 2
+[08:32:32] [Render thread/INFO]:     entity_type: 1
+[08:32:32] [Render thread/INFO]: Module [kiwi:data] initialized
+[08:32:32] [Render thread/INFO]:     recipe_serializer: 3
+[08:32:32] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `snow`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[08:32:33] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `snow`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[08:32:33] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[08:32:33] [Render thread/INFO]: Registering model layer quark:crab#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:shiba#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:frog#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:wraith#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:forgotten_hat#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:stoneling#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:toretoise#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:quark_boat#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:foxhound#main
+[08:32:33] [Render thread/INFO]: Registering model layer quark:backpack#main
+[08:32:33] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, quark-emote-pack
+[08:32:33] [modloading-worker-0/WARN]: Configuration file C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\config\jei-client.toml is not correct. Correcting
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key search.ResourceLocationSearchMode was corrected from null to its default, DISABLED. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key search.ResourceIdSearchMode was corrected from DISABLED to its default, null. 
+[08:32:33] [modloading-worker-0/WARN]: Configuration file C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\config\patchouli-client.toml is not correct. Correcting
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key noAdvancementBooks was corrected from [] to its default, []. 
+[08:32:33] [modloading-worker-0/WARN]: Configuration file C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\config\legendarytooltips-common.toml is not correct. Correcting
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level0_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level1_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level2_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level3_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level4_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level5_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level6_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level7_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level8_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level9_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level10_start_color was corrected from -6723294 to its default, -6723294. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level10_end_color was corrected from -10864099 to its default, -10864099. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level10_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level11_start_color was corrected from -6723294 to its default, -6723294. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level11_end_color was corrected from -10864099 to its default, -10864099. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level11_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level12_start_color was corrected from -6723294 to its default, -6723294. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level12_end_color was corrected from -10864099 to its default, -10864099. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level12_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level13_start_color was corrected from -6723294 to its default, -6723294. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level13_end_color was corrected from -10864099 to its default, -10864099. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level13_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level14_start_color was corrected from -6723294 to its default, -6723294. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level14_end_color was corrected from -10864099 to its default, -10864099. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level14_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level15_start_color was corrected from -6723294 to its default, -6723294. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level15_end_color was corrected from -10864099 to its default, -10864099. 
+[08:32:33] [modloading-worker-0/WARN]: Incorrect key client.colors.level15_bg_color was corrected from -266991104 to its default, -266991104. 
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Redstone Randomizer
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Pistons Move Tile Entities
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Obsidian Plate
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Metal Buttons
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Jukebox Automation
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Iron Rod
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Gravisand
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Feeding Trough
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Ender Watcher
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Dispensers Place Blocks
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Chute
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Chains Connect Blocks
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Wooden Posts
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Vertical Slabs
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Variant Ladders
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Variant Furnaces
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Variant Chests
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Variant Bookshelves
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Thatch
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Sturdy Stone
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Stools
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Soul Sandstone
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Shingles
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Shear Vines
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Rope
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Oriental Palette
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Nether Brick Fence Gate
+[08:32:33] [modloading-worker-0/INFO]: Loading Module More Stone Variants
+[08:32:33] [modloading-worker-0/INFO]: Loading Module More Potted Plants
+[08:32:33] [modloading-worker-0/INFO]: Loading Module More Brick Types
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Midori
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Leaf Carpet
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Industrial Palette
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Hedges
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Grate
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Gold Bars
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Glass Item Frame
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Framed Glass
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Duskbound Blocks
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Compressed Blocks
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Celebratory Lamps
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Quick Armor Swapping
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Item Sharing
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Inventory Sorting
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Hotbar Changer
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Expanded Item Interactions
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Easy Transfering
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Chests In Boats
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Trowel
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Slime In A Bucket
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Seed Pouch
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Pickarang
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Pathfinder Maps
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Endermosh Music Disc
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Color Runes
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Camera
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Bundle Recipe
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Bottled Cloud
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Beacon Redirection
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Ancient Tomes
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Ambient Discs
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Abacus
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Villagers Follow Emeralds
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Utility Recipes
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Snow Golem Player Heads
+[08:32:33] [modloading-worker-0/INFO]: Loading Module Simple Harvest
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Sign Editing
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Replace Scaffolding
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Reacharound Placing
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Poison Potato Usage
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Pat The Dogs
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Note Block Mob Sounds
+[08:32:34] [modloading-worker-0/INFO]: Loading Module More Banner Layers
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Lock Rotation
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Hoe Harvesting
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Glass Shard
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Enhanced Ladders
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Emotes
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Dragon Scales
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Double Door Opening
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Compasses Work Everywhere
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Campfires Boost Elytra
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Better Elytra Rocket
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Automatic Recipe Unlock
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Armed Armor Stands
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Skull Pikes
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Spiral Spires
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Permafrost
+[08:32:34] [modloading-worker-0/INFO]: Loading Module New Stone Types
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Nether Obsidian Spikes
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Monster Box
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Glimmering Weald
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Fairy Rings
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Corundum
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Chorus Vegetation
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Blossom Trees
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Big Stone Clusters
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Big Dungeon
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Azalea Wood
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Wraith
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Toretoise
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Stonelings
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Shiba
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Frogs
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Foxhound
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Forgotten
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Crabs
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Variant Animal Textures
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Usage Ticker
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Soul Candles
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Microcrafting Helper
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Improved Tooltips
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Greener Grass
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Chest Searching
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Back Button Keybind
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Auto Walk Keybind
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Overlay Shader
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Narrator Readout
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Game Nerfs
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Adjustable Chat
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Totem Of Holding
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Pipes
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Matrix Enchanting
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Magnets
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Crate
+[08:32:34] [modloading-worker-0/INFO]: Loading Module Backpack
+[08:32:34] [Worker-Main-10/INFO]: farsight_view mod initialized
+[08:32:34] [Worker-Main-6/INFO]: Zooming chunks initiated!
+[08:32:34] [Worker-Main-3/INFO]: Reloading the configs from file 'C:\Users\Ethan\curseforge\minecraft\Instances\Cinnamon-test-environ\config\tellme.toml'
+[08:32:34] [Worker-Main-4/INFO]: [BetterF3] Loading...
+[08:32:34] [Worker-Main-4/INFO]: [BetterF3] All done!
+[08:32:34] [Worker-Main-3/INFO]: Compression will use Java 11, encryption will use Java
+[08:32:34] [Forge Version Check/INFO]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18
+[08:32:34] [Forge Version Check/INFO]: [clumps] Found status: BETA Current: 8.0.0+5 Target: null
+[08:32:34] [Forge Version Check/INFO]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.18.1
+[08:32:34] [Forge Version Check/INFO]: [controlling] Found status: BETA Current: 9.0+15 Target: 9.0+15
+[08:32:34] [Forge Version Check/INFO]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[08:32:35] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[08:32:35] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[08:32:35] [Placebo Patreon Trail Loader/INFO]: Loaded 8 patreon trails.
+[08:32:35] [Worker-Main-11/INFO]: [KONKRETE] Client-side libs ready to use!
+[08:32:35] [Placebo Patreon Wing Loader/INFO]: Loaded 8 patreon wings.
+[08:32:35] [Forge Version Check/INFO]: [configured] Found status: BETA Current: 1.5.3 Target: 1.5.3
+[08:32:35] [Forge Version Check/INFO]: [jeitweaker] Starting version check at https://updates.blamejared.com/get?n=JEITweaker&gv=1.18.1
+[08:32:35] [Forge Version Check/INFO]: [jeitweaker] Found status: BETA Current: 3.0.0.4 Target: 3.0.0.4
+[08:32:35] [Forge Version Check/INFO]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.18.1
+[08:32:35] [Forge Version Check/INFO]: [crafttweaker] Found status: BETA_OUTDATED Current: 9.0.62 Target: 9.0.63
+[08:32:35] [Forge Version Check/INFO]: [equipmentcompare] Starting version check at https://mc-curse-update-checker.herokuapp.com/502561
+[08:32:35] [Forge Version Check/INFO]: [equipmentcompare] Found status: UP_TO_DATE Current: 1.2.12 Target: null
+[08:32:35] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.1
+[08:32:36] [Forge Version Check/INFO]: [enchdesc] Found status: BETA_OUTDATED Current: 9.0.11 Target: 9.0.13
+[08:32:36] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08:32:36] [Forge Version Check/INFO]: [forge] Found status: BETA Current: 39.0.79 Target: 39.0.79
+[08:32:36] [Forge Version Check/INFO]: [highlighter] Starting version check at https://mc-curse-update-checker.herokuapp.com/521590
+[08:32:36] [Forge Version Check/INFO]: [highlighter] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[08:32:36] [Forge Version Check/INFO]: [iceberg] Starting version check at https://mc-curse-update-checker.herokuapp.com/520110
+[08:32:37] [Forge Version Check/INFO]: [iceberg] Found status: UP_TO_DATE Current: 1.0.40 Target: null
+[08:32:37] [Forge Version Check/INFO]: [legendarytooltips] Starting version check at https://mc-curse-update-checker.herokuapp.com/532127
+[08:32:37] [Forge Version Check/INFO]: [legendarytooltips] Found status: UP_TO_DATE Current: 1.2.4 Target: null
+[08:32:37] [Forge Version Check/INFO]: [betterf3] Starting version check at https://raw.githubusercontent.com/cominixo/BetterF3/architectury/1.18/update.json
+[08:32:37] [Forge Version Check/INFO]: [betterf3] Found status: BETA Current: 1.2.2 Target: null
+[08:32:38] [Worker-Main-5/WARN]: Unable to load model: 'minecraft:item/crossbow/crossbow_bolt_iron' referenced from: minecraft:crossbow#inventory: java.io.FileNotFoundException: minecraft:models/item/crossbow/crossbow_bolt_iron.json
+[08:32:38] [Worker-Main-5/WARN]: Unable to load model: 'minecraft:item/crossbow/crossbow_bolt_netherite' referenced from: minecraft:crossbow#inventory: java.io.FileNotFoundException: minecraft:models/item/crossbow/crossbow_bolt_netherite.json
+[08:32:38] [Worker-Main-5/WARN]: Unable to load model: 'minecraft:item/crossbow/crossbow_bolt_diamond' referenced from: minecraft:crossbow#inventory: java.io.FileNotFoundException: minecraft:models/item/crossbow/crossbow_bolt_diamond.json
+[08:32:38] [Worker-Main-5/WARN]: Unable to load model: 'minecraft:item/crossbow/crossbow_bolt_gold' referenced from: minecraft:crossbow#inventory: java.io.FileNotFoundException: minecraft:models/item/crossbow/crossbow_bolt_gold.json
+[08:32:39] [Worker-Main-1/ERROR]: Using missing texture, unable to load supplementaries:textures/blocks/laser_beam_end.png : java.io.FileNotFoundException: supplementaries:textures/blocks/laser_beam_end.png
+[08:32:39] [Worker-Main-8/ERROR]: Using missing texture, unable to load supplementaries:textures/blocks/amethyst_block.png : java.io.FileNotFoundException: supplementaries:textures/blocks/amethyst_block.png
+[08:32:39] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraft:textures/block/bubble_block.png : java.io.FileNotFoundException: minecraft:textures/block/bubble_block.png
+[08:32:39] [Worker-Main-3/ERROR]: Using missing texture, unable to load supplementaries:textures/blocks/laser_overlay.png : java.io.FileNotFoundException: supplementaries:textures/blocks/laser_overlay.png
+[08:32:39] [Worker-Main-6/ERROR]: Using missing texture, unable to load supplementaries:textures/block/flower_pot.png : java.io.FileNotFoundException: supplementaries:textures/block/flower_pot.png
+[08:32:39] [Worker-Main-9/ERROR]: Using missing texture, unable to load supplementaries:textures/blocks/laser_beam.png : java.io.FileNotFoundException: supplementaries:textures/blocks/laser_beam.png
+[08:32:40] [Worker-Main-8/INFO]: Creating config GUI factories...
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod kiwi. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod jei. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod configured. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod itemzoom. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-11/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod snowundertrees. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod jeed. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod farsight_view. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod toastcontrol. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod snowrealmagic. Found 1 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod dynview. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod blueprint. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod forge. Found 1 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-2/INFO]: Loaded values for 17 compatible attributes.
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod tellme. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod equipmentcompare. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod farmersdelight. Found 1 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod ding. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod highlighter. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod patchouli. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-2/INFO]: Loaded 17 values from config.
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod legendarytooltips. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod betterthirdperson. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod betterstrongholds. Found 0 client config(s) and 1 common config(s)
+[08:32:40] [Worker-Main-8/INFO]: Registering config factory for mod betteradvancements. Found 1 client config(s) and 0 common config(s)
+[08:32:40] [Worker-Main-2/INFO]: Saving config file. 17 entries.
+[08:32:40] [Worker-Main-2/INFO]: Applying changes for 17 attributes.
+[08:32:40] [Worker-Main-11/INFO]: Start loading plugin at snownee.snow.compat.jade.JadeCompat
+[08:32:40] [Worker-Main-11/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[08:32:42] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[08:32:42] [Render thread/INFO]: Sound engine started
+[08:32:42] [Render thread/INFO]: Endimation Loader has loaded 1 endimations
+[08:32:42] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[08:32:42] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[08:32:42] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[08:32:42] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[08:32:42] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/chest.png-atlas
+[08:32:42] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[08:32:42] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[08:32:43] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[08:32:43] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[08:32:43] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[08:32:43] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[08:32:43] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 39 jsons
+[08:32:43] [Render thread/INFO]: Not reloading resource pack-based books as client world is missing
+[08:32:45] [Render thread/INFO]: [FANCYMENU] Updating animation sizes..
+[08:32:48] [Thread-11/ERROR]: An error occurred building event handler
+java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.loadClass(String)" because the return value of "java.lang.Thread.getContextClassLoader()" is null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:213) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:223) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:213) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:130) [securejarhandler-1.0.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) [?:?]
+[08:32:48] [Thread-11/ERROR]: An error occurred building event handler
+java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.loadClass(String)" because the return value of "java.lang.Thread.getContextClassLoader()" is null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:213) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:223) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:213) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:130) [securejarhandler-1.0.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) [?:?]
+[08:32:48] [Thread-11/ERROR]: An error occurred building event handler
+java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.loadClass(String)" because the return value of "java.lang.Thread.getContextClassLoader()" is null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:213) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:223) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:213) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:130) [securejarhandler-1.0.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) [?:?]
+	at net.minecraftforge.client.gui.ModListScreen.<init>(ModListScreen.java:113) [forge-1.18.1-39.0.79-universal.jar%23119!/:?]
+[08:32:48] [Thread-11/ERROR]: An error occurred building event handler
+java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.loadClass(String)" because the return value of "java.lang.Thread.getContextClassLoader()" is null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:213) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:223) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:213) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:130) [securejarhandler-1.0.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) [?:?]
+	at net.minecraftforge.client.gui.ModListScreen.<init>(ModListScreen.java:113) [forge-1.18.1-39.0.79-universal.jar%23119!/:?]
+[08:32:48] [Thread-11/ERROR]: An error occurred building event handler
+java.lang.NullPointerException: Cannot invoke "java.lang.ClassLoader.loadClass(String)" because the return value of "java.lang.Thread.getContextClassLoader()" is null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) ~[eventbus-5.0.3.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) ~[eventbus-5.0.3.jar:5.0.3+70+master.d7d405b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.0.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:213) ~[securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:223) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:213) [securejarhandler-1.0.1.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:130) [securejarhandler-1.0.1.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) [?:?]
+	at net.minecraftforge.client.gui.ModListScreen.<init>(ModListScreen.java:113) [forge-1.18.1-39.0.79-universal.jar%23119!/:?]
+[08:33:00] [Render thread/INFO]: Stopping!
