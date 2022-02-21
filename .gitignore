@@ -8,3 +8,5 @@ logs/
 saves/
 downloads/
 crash-reports/
+usercache.json
+usernamecache.json
