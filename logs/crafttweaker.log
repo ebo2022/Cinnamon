@@ -1,8 +1,0 @@
-[08:32:31.821][INFO]: Starting building internal Registries
-[08:32:32.196][INFO]: The following mods have explicit CraftTweaker support:
-[08:32:32.197][INFO]: 'crafttweaker' at version '9.0.62'
-[08:32:32.197][INFO]: 'jeitweaker' at version '3.0.0.4'
-[08:32:32.383][INFO]: BEP 'itemgroup' has a validator but no BEP method
-[08:32:32.412][INFO]: Completed building internal Registries
-[08:32:34.508][INFO]: Started loading Scripts for Loader 'initialize'!
-[08:32:34.919][INFO]: Finished loading Scripts!
