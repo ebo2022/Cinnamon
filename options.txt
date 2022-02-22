@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","quark:emote_resources"]
+resourcePacks:["vanilla","mod_resources","quark:emote_resources","resources/Brighter Night.zip","resources/Cinnamon-Resources","resources/Cinnamon-VanillaTweaks.zip","resources/Cloudier Clouds.zip","resources/EclecticTrove-1.18-1.0.1.zip","file/Farcr\u0027s_Texture_Overrides_V2.0.zip"]
 incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
 lang:en_us
@@ -126,9 +126,13 @@ key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_details:key.keyboard.left.shift
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.back:key.mouse.4
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
@@ -150,10 +154,6 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.back:key.mouse.4
-key_quark.keybind.sort_player:key.keyboard.unknown
-key_quark.keybind.sort_container:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
